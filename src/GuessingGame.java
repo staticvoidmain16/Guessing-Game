@@ -1,3 +1,6 @@
+//3-4-16
+//staticvoidmain16
+
 import java.util.Scanner;
 import java.util.Random;
 
